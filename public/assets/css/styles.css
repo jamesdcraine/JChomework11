@@ -9,10 +9,9 @@
 	background-color: white;
  }
 
-
  h1 {
  	text-align: center;
- 	font-family: 'Fontdiner Swanky', cursive;
+ 	font-family: Georgia, 'Times New Roman', Times, serif;
  	font-size: 65px;
  	margin: 50px;
  }
@@ -22,7 +21,7 @@ ul {
 }
 
  .burgerAvailable {
- 	font-family: 'Crafty Girls', cursive;
+ 	font-family: Georgia, 'Times New Roman', Times, serif;
  	font-weight: normal;
  	font-size: 20px;
  	text-align: center;
@@ -52,14 +51,14 @@ ul {
 
  h2 {
   	text-align: center;
- 	font-family: 'Fontdiner Swanky', cursive;
+ 	font-family: Georgia, 'Times New Roman', Times, serif;
  	font-size: 40px;
  	margin: 50px;
  }
 
 
  .addBurgerButton {
- 	font-family: 'Crafty Girls', cursive;
+ 	font-family: Georgia, 'Times New Roman', Times, serif;
  	font-weight: normal;
  	font-size: 20px;
  	text-align: center;
@@ -153,11 +152,6 @@ ul {
         font-size: 1.1em;
          }
 
-        .myCopyright {
-            min-height: 20px !important;
-            /*position: relative;
-            top: 10px;*/
-        }
         .myTinyImage {
             margin-left: 5px;
             margin-right: 5px;
